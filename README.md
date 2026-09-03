@@ -10,6 +10,6 @@ Under the hood: a Symfony API, a React app, MongoDB, RabbitMQ workers and a Next
 
 # Links
 
-- [X](https://x.com/thomasngrlt)
+- [X](https://x.com/thmsbernard)
 - [LinkedIn](https://www.linkedin.com/in/thmsbernard)
 - [thmsbernard.fr](https://thmsbernard.fr)
